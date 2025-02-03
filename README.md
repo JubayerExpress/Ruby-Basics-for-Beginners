@@ -1,4 +1,5 @@
 # JavaScript Basics for Beginners
+# JavaScript Basics for Beginners
 
 Welcome to the **JavaScript Basics for Beginners** repository! This repository contains simple and fundamental JavaScript code examples that will help you get started with JavaScript programming. Each example demonstrates a key concept of JavaScript, providing a hands-on way to understand how JavaScript works.
 
